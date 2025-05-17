@@ -6,7 +6,7 @@
 % Examples 1 & 2 use analytic expressions for near-singular correction. (cf. the arXiv paper)
 % Examples 1b & 2b use finite difference approximation for truncated near-singular correction.
 
-% NOTE: Symbolic Toolbox is required is run this code.
+% NOTE: Symbolic Toolbox is required to run this code.
 
 %% Example 1: Integrate f(x) = d*exp(x)/(c^2*x^2 + d^2) from -1 to 1 using trapezoidal rule
 % NOTE: Correction computed using analytic expression
